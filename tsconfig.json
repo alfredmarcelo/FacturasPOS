@@ -1,5 +1,5 @@
 {
   "extends": "@react-native/typescript-config",
-  "include": ["**/*.ts", "**/*.tsx"],
+  "include": ["**/*.ts", "**/*.tsx", "Facturas/AgregarFacturas.jsx", "Facturas/AgregarProducto.jsx", "Facturas/Borrar.jsx", "Facturas/Enviar.jsx", "Facturas/Etiqueta.jsx", "Facturas/Facturas.jsx", "Facturas/EnviarFactura.jsx", "Facturas/PanelClientes.jsx", "Facturas/PanelFacturas.jsx", "FrontPanel/ChartComparativo.jsx", "FrontPanel/ChartsCompras.jsx", "FrontPanel/ChartsVentas.jsx", "FrontPanel/FrontPanel.jsx", "FrontPanel/LineaResumen.jsx", "FrontPanel/PanelIA.jsx", "FrontPanel/Profile.jsx", "Navigation/StackNavigation.jsx", "NavMenu/Items.jsx", "NavMenu/SliceMenu.jsx", "App.jsx"],
   "exclude": ["**/node_modules", "**/Pods"]
 }
